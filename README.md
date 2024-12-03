@@ -1,4 +1,4 @@
-🔭 I’m currently working on a Dating application using Laravel, Alpine.js, Tailwind, and Livewire.<br>🌱 I’m exploring Vue.js and Alpine for building more dynamic and reactive interfaces to enhance my Laravel projects.<br>⚡ Fun fact: I can build a fully functional app, but still struggle to find the perfect names for my variables! 😄
+🔭 I’m currently working on a robust application for travel itinerary management and financial tracking. <br>🌱 I’m exploring Vue.js and Alpine for building more dynamic and reactive interfaces to enhance my Laravel projects.<br>⚡ Fun fact: I can build a fully functional app, but still struggle to find the perfect names for my variables! 😄
 
 
 
